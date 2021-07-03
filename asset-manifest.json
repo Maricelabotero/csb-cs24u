@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://maricelabotero.github.io/csb-cs24u/static/css/main.79d53c62.chunk.css",
+    "main.js": "https://maricelabotero.github.io/csb-cs24u/static/js/main.bf974bf9.chunk.js",
+    "main.js.map": "https://maricelabotero.github.io/csb-cs24u/static/js/main.bf974bf9.chunk.js.map",
+    "runtime-main.js": "https://maricelabotero.github.io/csb-cs24u/static/js/runtime-main.1e0189c0.js",
+    "runtime-main.js.map": "https://maricelabotero.github.io/csb-cs24u/static/js/runtime-main.1e0189c0.js.map",
+    "static/css/2.ba27c2ca.chunk.css": "https://maricelabotero.github.io/csb-cs24u/static/css/2.ba27c2ca.chunk.css",
+    "static/js/2.690cd4d4.chunk.js": "https://maricelabotero.github.io/csb-cs24u/static/js/2.690cd4d4.chunk.js",
+    "static/js/2.690cd4d4.chunk.js.map": "https://maricelabotero.github.io/csb-cs24u/static/js/2.690cd4d4.chunk.js.map",
+    "index.html": "https://maricelabotero.github.io/csb-cs24u/index.html",
+    "static/css/2.ba27c2ca.chunk.css.map": "https://maricelabotero.github.io/csb-cs24u/static/css/2.ba27c2ca.chunk.css.map",
+    "static/css/main.79d53c62.chunk.css.map": "https://maricelabotero.github.io/csb-cs24u/static/css/main.79d53c62.chunk.css.map",
+    "static/js/2.690cd4d4.chunk.js.LICENSE.txt": "https://maricelabotero.github.io/csb-cs24u/static/js/2.690cd4d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e0189c0.js",
+    "static/css/2.ba27c2ca.chunk.css",
+    "static/js/2.690cd4d4.chunk.js",
+    "static/css/main.79d53c62.chunk.css",
+    "static/js/main.bf974bf9.chunk.js"
+  ]
+}
